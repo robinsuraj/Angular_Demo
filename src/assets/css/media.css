@@ -1,0 +1,58 @@
+@media only screen and (min-width: 1280px) {
+	
+	nav.custom-nav ul>li+li {margin-left: 17px;}
+	.process_title{padding:30px 0;}
+	.basic_details_section{padding:3em 0;}
+	.form-controller{padding:3em 15px;}
+	ul.pay_list{padding:35px 0;}
+	.qualification_steps li{padding:30px 45px 30px 0;}
+	.add-ubo{margin-bottom:30px;}
+	.fleet_container{padding:0 25px;}
+	.tab_ccontent_controller .tab-content{padding:4.5em 20px 2.5em;}
+}
+
+@media only screen and (min-width: 900px) {
+	
+	.select_option.inline_checkbox li.col-sm-4{width:33.333%;}
+	.select_option.inline_checkbox li.col-sm-6{width:50%;}
+	ul.select_option.vessel_entity_opt{overflow:hidden;}
+	.tab_head_controller .nav-tabs > li + li{margin-left:70px;}
+	
+}
+
+@media only screen and (max-width: 1279px) {
+	
+	nav.custom-nav ul>li+li{margin:0;}
+	nav.custom-nav ul{padding:0 15px;}
+	
+}
+
+
+
+
+@media only screen and (max-width: 991px) {
+	
+	.with_profile .navbar-header{float:left;}
+	.with_profile .custom_pro_dropdown{float:right;}
+	.with_profile .custom_pro_dropdown .dropdown-menu{right:0; left:auto;}
+	.awaitaing-text{text-align:left;}
+	.page_controller {padding: 1em 0;}
+	
+	
+}
+
+
+@media only screen and (max-width: 767px) {
+	
+	.pay_list li{width:100%;}
+	.pay_list li:nth-child(2){border-top:1px solid #e9f2f5; border-bottom:1px solid #e9f2f5;border-left:0; border-right:0; margin:20px 0; padding:20px 0;}
+	.top_head_sec h4{font-size:16px;}
+	.awaitaing-text{font-size:13px;}
+	.pay_details, .table_details {margin: 1em 0;}
+	.custom-nav .nav>li{text-align:right;}
+	
+	
+	
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {}
